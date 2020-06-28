@@ -2,9 +2,12 @@
 
 Um script pra vocês baixarem todas as fotos da(o) crush do instagram de uma só vez :D
 
+Feito utilizando Node.JS e Puppeteer
+
 Para utilizar, clone o repositório e digite o seguinte comando na raiz do pasta:
 
 Para instalar as dependências necessárias.
+
 
 
 <code>
